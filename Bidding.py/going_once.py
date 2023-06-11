@@ -6,3 +6,4 @@ while(True):
         break
 
 print("Sold:", bid)
+#This code is designed to do a bidding process

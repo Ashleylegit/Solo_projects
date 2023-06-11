@@ -1,0 +1,1 @@
+print("Hello Fellow Bidders Welcome to our Bidding Wars May the Best Bid win!!")
